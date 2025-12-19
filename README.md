@@ -1,4 +1,4 @@
-![StandingOvationGIF](https://github.com/user-attachments/assets/138082b3-301e-4c73-a076-074e389bbc2a)<!-- ========================= -->
+<!-- ========================= -->
 <!-- GitHub Profile README -->
 <!-- ========================= -->
 
