@@ -32,6 +32,14 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 - 👤 Portfolio Website → Coming Soon
