@@ -11,7 +11,7 @@
 
 - 🎓 Student at **SMK**  
 - 🌱 Currently learning **Fullstack Web Development**
-- 💻 Focused on **Frontend → Backend**
+- 💻 Focused on **Frontend & Backend**
 - 🎯 Goal: **Combining professional work with global travel**
 - 🎸 Hobby: Playing Guitar & Coding
 - 🇮🇩 From Indonesia
