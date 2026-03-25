@@ -20,10 +20,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📌 Contribution Summary
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StarLightt0/StarLightt0/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=StarLightt0" />
 </p>
 
 ---
