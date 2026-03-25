@@ -20,10 +20,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StarLightt0&show_icons=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/StarLightt0/StarLightt0/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
