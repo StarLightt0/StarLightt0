@@ -20,9 +20,11 @@
 
 ---
 
-## 📈 Contribution Graph 
+## 🔥 Streak Stats
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=StarLightt0&theme=tokyo-night" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=StarLightt0&theme=tokyonight" />
+</p>
 
 ---
 
