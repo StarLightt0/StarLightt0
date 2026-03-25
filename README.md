@@ -20,10 +20,23 @@
 
 ---
 
-## 📌 Contribution Summary
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=StarLightt0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StarLightt0&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=StarLightt0&theme=tokyonight" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StarLightt0&theme=tokyo-night" />
+</p>
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/StarLightt0" />
 </p>
 
 ---
