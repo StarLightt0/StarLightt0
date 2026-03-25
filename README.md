@@ -36,7 +36,7 @@
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/StarLightt0" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=StarLightt0" />
 </p>
 
 ---
