@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Student at **SMK**  
+- 🎓 Student at **Universitas Teknologi Bandung (UTB)**  
 - 🌱 Currently learning **Fullstack Web Development**
 - 💻 Focused on **Frontend & Backend**
 - 🎯 Goal: **Combining professional work with global travel**
